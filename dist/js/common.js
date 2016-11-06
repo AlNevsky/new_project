@@ -1,0 +1,6 @@
+$(function () {
+
+
+    // $('body').fadeOut();
+
+});
